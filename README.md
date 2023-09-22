@@ -8,3 +8,4 @@ python编写的图形化网络工具
    使用的python版本为3.7.2
    使用时直接运行主文件mathin.py即可使用  `python mathin.py`
 ![image](https://github.com/M7-wacb/python-sec-tools/assets/123800032/a0578aee-2c6d-41cb-95ad-dde3025930e6)
+*只是学Python练手的项目，后续会持续更新*
