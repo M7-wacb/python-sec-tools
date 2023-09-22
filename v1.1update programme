@@ -1,0 +1,11 @@
+SECTION: v1.1升级方案
+TODO-------blast:爆破的字典生成显示 | 更多的字典生成选择 | 页面升级 | 尽可能使用class | 直接打开文件目录
+TODO-------keybordwrite:更精美的外觀 | 關閉和停止按鈕
+TODO-------arpscan:直接多次掃描 | class
+TODO-------InSpeed:更快的速度 | 外觀
+TODO-------Intext: 直接内置到mathin中不單獨作爲一個模塊
+TODO-------nmap: 更新模块包问题 | 打包成文件成功执行
+TODO-------TCPquankai: 更快的速度 | 再次扫描自动清除上次扫描的
+TODO-------Dir Scan: 快速有效 | 美观
+TODO-------内置爬取github CVE链接的api接口
+
